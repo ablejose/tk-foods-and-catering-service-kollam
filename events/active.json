@@ -1,0 +1,33 @@
+{
+  "slug": "tk-foods-and-catering-service-kollam",
+  "name": "TK Foods & Catering Service",
+  "shortName": "TK Foods & Catering Service",
+  "descriptor": "Catering Services",
+  "address": "Kollam-Ayoor Rd, VJXX+995, colany, near Ambakar, Decent Jun, Palathara, Kottamkara, Kollam, Keralam 691577",
+  "area": "Palathara",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691577",
+  "geo": {
+    "lat": 8.8983931,
+    "lng": 76.6484909
+  },
+  "mapsLink": "https://maps.google.com/?cid=12964226784493155165",
+  "phone": "+91 80863 75880",
+  "whatsapp": "918086375880",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://tk-foods-and-catering-service-kolla.vercel.app"
+}
